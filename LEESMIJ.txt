@@ -1,0 +1,29 @@
+==================================================
+ShiftFlow Studio - Website & Rooster Backup (inclusief map 'assets')
+Jaar: 2027
+Aangemaakt op: 2-11-2026, 16:39:34
+==================================================
+
+INHOUD VAN DEZE ZIP:
+1. index.html (~1893 KB)
+   Het standaard website-bestand (koppelt direct met de map 'assets/').
+   Al uw werkroosters, 12-weken cyclus, verlofuren en RSD-dagen
+   zitten hier reeds kant-en-klaar in ingebakken.
+
+2. map 'assets/'
+   - index.css (Volledige stylesheets en vormgeving)
+   - index.js (Volledige JavaScript applicatiecode)
+
+3. standalone-single-file.html
+   Reservebestand: de complete website in 1 enkel bestand (voor wie geen mapjes wil).
+
+4. ShiftFlow_Rooster_2027_Backup.json
+   Een losse JSON databackup van uw rooster.
+
+HOE TE GEBRUIKEN OP GITHUB PAGES (Net als Clipflow Studio):
+1. Open uw repository op https://github.com
+2. Klik op 'Add file' -> 'Upload files'
+3. Sleep 'index.html' EN de map 'assets' naar uw GitHub repository
+   LET OP: Sleep zowel 'index.html' als de map 'assets' erin!
+4. Klik op 'Commit changes'
+5. Uw website is direct live met al uw gegevens!
